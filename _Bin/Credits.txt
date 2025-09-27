@@ -1,0 +1,22 @@
+                                           
+           ##   # ####      ####  ###  ##  # ##  ### 
+           ### ## ## ##    ##    ## ## ### # ## ##   
+           ## # # ## ## ##  ###  ## ## ##### ## ##   
+           ##   # ## ## ##    ## ## ## ## ## ## ##   
+           ##   # ## ##       ## ## ## ##  # ## ##   
+           ##   # ####     ####   ###  ##  # ##  ### 
+                                          
+        A Mega Drive port of CD-SONIC v0.02 by MDTravis
+
++------------------------------------------------------------------+
+
+With Special Thanks to:
+
+	KatKuriN - Original disassembly + Program assistance
+	Devon - Final game disassembly + Program assistance
+	SleekFlash-16 - Music
+	RadiantNexus Team - Support
+	Hidden Palace - Providing this prototype
+
++------------------------------------------------------------------+
+
