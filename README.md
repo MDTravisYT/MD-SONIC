@@ -5,7 +5,7 @@
 > This project is not permitted to be sold in any way, such as a physical reproduction cartridge or console pack-in. If you find this project on there, *you've been scammed*!
 
 # MD-SONIC
-This is a port of the Yuusei demo of Sonic CD to stock Sega Mega Drive, better known as v0.02 or the 1204 prototype. It is directly built off of the R11B__.MMD file in the disk, which originally handled Round 1 Zone 1 Past. This project was started on August 4, 2024 using a disassembly by KatKuriN.
+This is a port of the Yuusei demo of Sonic CD to stock Sega Mega Drive, better known as v0.02 or the 1204 prototype. It is directly built off of the R11B__.MMD file in the disk, which originally handled Round 1 Zone 1 Past. This project was started on August 4, 2024 using a disassembly by Katsushimi.
 
 This port features:
 
