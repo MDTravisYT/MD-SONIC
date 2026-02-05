@@ -12,7 +12,7 @@
 
 With Special Thanks to:
 
-	KatKuriN - Original disassembly + Program assistance
+	Katsushimi - Original disassembly + Program assistance
 	Devon - Final game disassembly + Program assistance
 	SleekFlash-16 - Music
 	RadiantNexus Team - Support

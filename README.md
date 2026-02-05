@@ -36,7 +36,7 @@ Another notable feature in this port, **Lock-On Technology!** This will allow yo
 # Credits
 
 - MDTravis - Main programmer + Custom artist + Hardware verification (NTSC-U Model 1 VA6.5) + everything else not listed below
-- KatKuriN - Original disassembly + Secondary programmer + General support
+- Katsushimi - Original disassembly + Secondary programmer + General support
 - Devon - Initial MD port code reference + Un-hardcoded chunks guide + General support
 - VladikComper - DAC driver (MegaPCM v2.0) + MegaPCM2 debugging + Error handler
 - SleekFlash-16 - MD arrangements of the CD-SONIC music

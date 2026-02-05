@@ -31,8 +31,8 @@ RAM_END			EQU	$1000000		; Work RAM end
 	; (ADDED) ROM header
 	dc.b	"SEGA MEGA DRIVE "
 	dc.b	"(C)SEGA 1993.SEP"
-	dc.b 	"CD-SONIC THE HEDGEHOG MD PORT BY MDTRAVIS       "
-	dc.b 	"CD-SONIC THE HEDGEHOG MD PORT BY MDTRAVIS       "
+	dc.b 	"CD-SONIC THE HEDGEHOG MD PORT BY MDTRAVIS V1.2  "
+	dc.b 	"CD-SONIC THE HEDGEHOG MD PORT BY MDTRAVIS V1.2  "
 	dc.b	"GM MK-4407 -00"
 Checksum:	dc.w	0
 	dc.b	"J               "
